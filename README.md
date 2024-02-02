@@ -7,6 +7,6 @@ My skills / used technologies:\
 • React / React Native\
 • JavaScript / TypeScript\
 • Java\
-• Android\
-
-Happy to see you on my GitHub (^ᴗ^)
+• Android
+\
+Happy to see you on my GitHub  (^ᴗ^)
