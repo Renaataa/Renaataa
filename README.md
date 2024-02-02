@@ -5,7 +5,7 @@ Lodz.
 One year of freelance experience.
 
 My skills / used technologies:
-• React / React Native
+&nbsp;• React / React Native
 • JavaScript / TypeScript
 • Java
 • Android
