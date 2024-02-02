@@ -1,16 +1,13 @@
-### Hi there 👋
+### Mobile / Web frontend developer (Freelance)
 
-<!--
-**Renaataa/Renaataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor's degree in Computer Networks and Data Processing from the University of
+Lodz.  
+One year of freelance experience.
 
-Here are some ideas to get you started:
+My skills / used technologies:
+• React / React Native
+• JavaScript / TypeScript
+• Java
+• Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Happy to see you on my GitHub (^ᴗ^)
