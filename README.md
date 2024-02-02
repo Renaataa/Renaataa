@@ -8,5 +8,5 @@ My skills / used technologies:\
 • JavaScript / TypeScript\
 • Java\
 • Android
-\
+\\
 Happy to see you on my GitHub  (^ᴗ^)
